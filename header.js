@@ -12,19 +12,7 @@ class MyHeader extends HTMLElement {
     }
  }
 </style>
-<div class="page-loader">
-            <div class="page-loader-logo hide-animation"><img alt="neuron" src="assets/imgs/logo.png" style="width:250px" /></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-            <div class="bar"></div>
-        </div>
+
 
         <div class="mobile-header-active mobile-header-wrapper-style perfect-scrollbar">
             <div class="mobile-logo">
