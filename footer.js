@@ -22,23 +22,23 @@ class footer_my extends HTMLElement {
                                 <div class="col-lg-4 col-md-12 mt-60">
                                     <h5 class="color-900">Services</h5>
                                     <ul class="menu-footer">
-                                        <li><a href="service-1.html">Project Software</a></li>
-                                        <li><a href="service-1.html">Cloud Migration</a></li>
-                                        <li><a href="service-1.html">Network Monitoring</a></li>
-                                        <li><a href="service-1.html">Data Backup</a></li>
-                                        <li><a href="service-1.html">Software Integration</a></li>
-                                        <li><a href="service-1.html">Disaster Recovery</a></li>
+                                        <li><a href="#">Project Software</a></li>
+                                        <li><a href="#">Cloud Migration</a></li>
+                                        <li><a href="#">Network Monitoring</a></li>
+                                        <li><a href="#">Data Backup</a></li>
+                                        <li><a href="#">Software Integration</a></li>
+                                        <li><a href="#">Disaster Recovery</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-lg-4 col-md-12 mt-60">
                                     <h5 class="color-900">Ressources</h5>
                                     <ul class="menu-footer">
-                                        <li><a href="blog.html">News & Events</a></li>
-                                        <li><a href="blog-2.html">Project management</a></li>
-                                        <li><a href="blog-3.html">Jobs & Careers</a></li>
-                                        <li><a href="blog-4.html">Marketing Solutions</a></li>
-                                        <li><a href="blog-2.html">Support center</a></li>
-                                        <li><a href="blog-3.html">Customers</a></li>
+                                        <li><a href="#">News & Events</a></li>
+                                        <li><a href="#">Project management</a></li>
+                                        <li><a href="#">Jobs & Careers</a></li>
+                                        <li><a href="#">Marketing Solutions</a></li>
+                                        <li><a href="#">Support center</a></li>
+                                        <li><a href="#">Customers</a></li>
                                     </ul>
                                 </div>
                             </div>
