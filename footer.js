@@ -51,13 +51,12 @@ class footer_my extends HTMLElement {
                             <div class="row align-items-center">
                                 <div class="col-lg-3 col-md-6 mb-30 text-center text-lg-start">
                                     <span class="font-lg color-900">
-                                        4517 Washington Ave.<br />
-                                        Manchester, Kentucky 39495
+                                       Saidabad Hyderabad
                                     </span>
                                 </div>
                                 <div class="col-lg-5 col-md-6 mb-30 text-center text-lg-start">
-                                    <span class="font-lg color-900">(+01) 234 567 89</span><br />
-                                    <span class="font-lg color-900">Hours: 8:00 - 17:00, Mon - Sat</span>
+                                    <span class="font-lg color-900"><a href="tel:6301706823" style="color:#fff">+91 6301706823</a></span><br />
+                                    
                                 </div>
                                 <div class="col-lg-4 col-md-12 mb-30 text-center text-lg-start text-xl-end">
                                     <ul class="menu-bottom">
